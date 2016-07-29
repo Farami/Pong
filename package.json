@@ -1,0 +1,18 @@
+{
+  "name": "pong",
+  "version": "0.0.1",
+  "description": "A simple SignalR Pong game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niclas 'Farami' O'Connor",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "morgan": "^1.7.0",
+    "nib": "^1.1.0",
+    "stylus": "^0.54.5"
+  }
+}
